@@ -1,2 +1,2 @@
 # github-lab
-Github - лаболатория
+[Github - лаболатория](https://lab.github.com/)
